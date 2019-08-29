@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: #EDB69E;
+}
+h1 {
+padding: 15px;
+color: black;
+text-align: center;
+font-family: Georgia;
+font-size: 32 px
+}
+p {
+padding: 5px 25px;
+color: black;
+text-align: left;
+font-family: Georgia;
+font-size: 28px;
+}
+p2 {
+padding: 5px 35px;
+text-align: left;
+font-family: Georgia;
+font-size: 20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #977465;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #41322C;
+}
+.row {
+  display: -webkit-flex;
+  display: flex;
+}
+.column {
+  padding: 25px;
+}
+.column.side {
+flex: 1;
+padding: 5px 35px;
+text-align: left;
+font-family: Georgia;
+font-size: 20px;
+}
+</style>
+</head>
+</html>
