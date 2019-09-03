@@ -2,9 +2,11 @@
 <html>
 <head>
 <style>
+  /*Background color*/
 body {
 background-color: #EDB69E;
 }
+  /*Heading at top of page: centered*/
 h1 {
 padding: 15px;
 color: black;
@@ -12,6 +14,7 @@ text-align: center;
 font-family: Verdana;
 font-size: 32px;
 }
+  /*This is my subheading smaller than title, but bigger than regular paragraphs*/
 p {
 padding: 5px 25px;
 color: black;
@@ -20,18 +23,21 @@ font-family: Verdana;
 font-size: 28px;
 font-weight: bold;
 }
+  /*These are my regular paragraphs*/
 p2 {
 padding: 5px 35px;
-text-align: right;
+text-align: left;
 font-family: Verdana;
 font-size: 20px;
 }
+  /*These are my images and they are centered*/
 img {
 padding: 30px;
 display: block;
 margin-left: auto;
 margin-right: auto;
 }
+  /*The ul, li, li a, and li a:hover, are all used for my navigation bar*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -54,6 +60,7 @@ li a {
 li a:hover {
   background-color: #41322C;
 }
+  /*The .row, .column, and .column.side, are for my column which I used of all three pages*/
 .row {
   display: -webkit-flex;
   display: flex;
@@ -68,6 +75,7 @@ text-align: left;
 font-family: Verdana;
 font-size: 20px;
 }
+  /*This is used for the images*/
 .container {
 padding: 30px;
 float: top;
