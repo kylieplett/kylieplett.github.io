@@ -43,7 +43,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:  #def7ff;
+  background-color:  #E9FAE3;
 }
 li {
   float: left;
@@ -58,7 +58,7 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background-color: #5ed7ff;
+  background-color: #DEE8D5;
 }
   /*The .row, .column, and .column.side, are for my column which I used of all three pages*/
 .row {
