@@ -103,4 +103,12 @@ text-align: center;
 }
 </style>
 </head>
+<body>
+<div class="gallery">
+  <a target="_blank" href="album1.jpg">
+    <img src="album1.jpg" alt="fuzzybrain" width="300" height="300">
+  </a>
+  <div class="desc">Can I Call You Tonight?<br>- Dayglow</div>
+</div>
+</body>
 </html>
