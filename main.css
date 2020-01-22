@@ -83,17 +83,12 @@ float: top;
  /* gallery */
 div.gallery {
   margin: 15px;
-  border: 3px solid #d1d1d1;
   float: left;
   width: 250px;
   height: 350px;
   font-family: verdana;
   color: black;
   background-color: #e8e8e8;
-}
-
-div.gallery:hover {
-  border: 3px solid #bababa;
 }
 
 div.gallery img {
